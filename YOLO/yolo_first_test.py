@@ -1,4 +1,4 @@
-from sympy.physics.vector import CoordinateSym
+
 from ultralytics import YOLO
 import cv2 as cv
 
