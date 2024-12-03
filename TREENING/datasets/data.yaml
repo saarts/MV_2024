@@ -1,0 +1,6 @@
+train: /Users/Master/PycharmProjects/TKTK/TREENING/datasets/train/images
+val: /Users/Master/PycharmProjects/TKTK/TREENING/datasets/valid/images
+test: /Users/Master/PycharmProjects/TKTK/TREENING/datasets/test/images
+
+nc: 1
+names: ['robot']
